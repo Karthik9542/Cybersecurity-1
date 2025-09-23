@@ -32,7 +32,7 @@ Task Overview We performed the following tasks:
    • Compressed and archived files using tar and zip
    • Encrypted and decrypted files using openssl
 
-Demo Video Watch our demo video on LinkedIn to see these tasks in action: https://lnkd.in/p/djxgGxUQ
+Demo Video Watch our demo video on LinkedIn to see these tasks in action: https://www.linkedin.com/posts/kotturi-karthik-a63755365_i-successfully-set-up-a-kali-linux-virtual-activity-7376105228158537728-RjuA?utm_source=share&utm_medium=member_android&rcm=ACoAAFqzoKsBgvy5RcVmS1QshWD_6K5Je_f7Tdg
 
 Getting Started To try out these tasks yourself, follow these steps:
 
